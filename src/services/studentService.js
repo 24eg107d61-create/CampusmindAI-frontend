@@ -1,5 +1,5 @@
 
-const API_URL = "http://localhost:8080/api/students";
+const API_URL = "https://campusmind-ai-backend-idm9.onrender.com/api/students";
 
 const getHeaders = () => ({
   "Content-Type": "application/json",
