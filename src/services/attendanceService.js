@@ -1,5 +1,5 @@
 
-const API_URL = "http://localhost:8080/api/attendance";
+const API_URL = "https://campusmind-ai-backend-idm9.onrender.com/api/attendance";
 
 // Get the JWT token saved after login.
 function getToken() {
